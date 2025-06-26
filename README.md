@@ -65,7 +65,8 @@ cd student_manager
 **Hanmant Handewar**  
 📧 hanmanthandewar18@gmail.com  
 🔗 [GitHub](https://github.com/harry-the-captain)  
-🔗 [LinkedIn](https://linkedin.com/in/hanmant-handewar)
+🔗 [LinkedIn](www.linkedin.com/in/hanmant-handewar-4132511b0)
+
 
 ---
 
